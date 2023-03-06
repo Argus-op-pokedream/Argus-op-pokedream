@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Argus-op-pokedream
-- 👀 I’m interested in discord.py,js,ts,go,c#
-- 🌱 I’m currently learning discord.js
+- 👋 Hi, I’m Argus
+- 👀 I’m interested in discord.py
+- 🌱 I’m currently learning discord.py
 - 💞️ I’m looking to collaborate on discord.py
 - 📫 How to reach me Argus#1000 join https://discord.gg/pokedream 
 
